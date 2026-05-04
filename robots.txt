@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-4rsjnf.sugem.com.br/sitemap.xml
